@@ -1,4 +1,4 @@
-class Chopper
+class ChopperRecursive
     def chop(x_number, array)
         if array.empty?
             -1

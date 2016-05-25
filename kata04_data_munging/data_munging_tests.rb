@@ -2,7 +2,6 @@
 
 require_relative 'process_weather_data'
 require 'test/unit'
-#require 'pp'
 
 
 class WeatherDataTests < Test::Unit::TestCase
